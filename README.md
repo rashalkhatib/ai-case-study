@@ -1,4 +1,4 @@
-Ambient Ai | A Leader in Pyhsical Security
+Ambient Ai | A Leader in Physical Security
 
 Ambient Ai is a security platform that specializes in incorporating computer vision intelligence with existing security cameras to reduce false alarms and detect security threats in real time to enable a faster response time and to prevent human casualties.
 
